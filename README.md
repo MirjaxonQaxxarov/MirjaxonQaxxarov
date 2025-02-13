@@ -1,5 +1,6 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello%2C+I'm+Mirjaxon+Qahhorov!;Welcome+to+my+GitHub+profile!;Full-stack+developer!;Passionate+about+coding+and+automation!" />
 
+
 # 👋 Hello! I'm Mirjaxon Qahhorov
 
 ## 🚀 About Me  
@@ -13,6 +14,8 @@
 
 <p align="center">
   <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=MirjaxonQaxxarov&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirjaxonQaxxarov&layout=compact&theme=synthwave" width="100%"/>
 </p>
 
 ## 🔧 Technologies & Tools  
