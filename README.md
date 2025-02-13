@@ -10,30 +10,105 @@
 - 💬 Ask me about **Python, PHP, NestJS, Laravel, Django, MySQL, and more**  
 - ⚡ Fun fact: **I love nature, mountains, and exploring new technologies**  
 
-## 📈 GitHub Stats  
 
-<p align="center">
-  <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=MirjaxonQaxxarov&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirjaxonQaxxarov&layout=compact&theme=synthwave" width="100%"/>
-</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MirjaxonQaxxarov&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+
 <div align="center">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirjaxonQaxxarov&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
+    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirjaxonQaxxarov&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
+
+
+## GitHub Trophy
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=MirjaxonQaxxarov&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+
+## Top Languages
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MirjaxonQaxxarov&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirjaxonQaxxarov&layout=compact&theme=radical" alt="Top Languages" width="50%">
+</div>
+
+---
 
 ## 🔧 Technologies & Tools  
 
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+### 💻 Programming Languages 
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</div>
+
+### 🎨 Frontend  & Frameworks:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</div>
 
 ### 🔥 Backend & Frameworks  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</div>
 
 ### 🛠️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat&logo=nginx&logoColor=white)  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)  
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</div>
+
+### 🗄️ Databases:
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
 
 ## 📫 Connect with Me  
-[![Instagram](https://img.shields.io/badge/-Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m_28_04_/)  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/M_28_04)  
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/MirjaxonQaxxarov">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="48" width="48" alt="GitHub" />
+            </a>
+        </td>
+        <td>
+            <a href="https://t.me/M_28_04">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram" />
+            </a>
+        </td>
+        <td>
+            <a href="https://instagram.com/M_28_04_">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="48" width="48" alt="Instagram" />
+            </a>
+        </td>
+        <td>
+            <a href="mailto:mirjaxon0011@gmail.com">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ---
 
