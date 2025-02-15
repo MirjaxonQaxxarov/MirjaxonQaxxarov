@@ -13,9 +13,9 @@
 
 
 ## GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirjaxonqaxxarov&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MIrjaxonqaxxarov&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB" align="center" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mirjaxonqaxxarov&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=MIrjaxonqaxxarov&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 
 <div align="center">
 <!--     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirjaxonQaxxarov&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" /> -->
@@ -25,13 +25,13 @@
 ## GitHub Trophy
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mirjaxonqaxxarov&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=MIrjaxonqaxxarov&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 ## Top Languages
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirjaxonqaxxarov&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirjaxonqaxxarov&layout=compact&theme=radical" alt="Top Languages" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIrjaxonqaxxarov&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIrjaxonqaxxarov&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
 ---
