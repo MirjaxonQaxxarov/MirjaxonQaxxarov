@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MirjaxonQaxxarov&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
 
 <div align="center">
-    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirjaxonQaxxarov&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
+<!--     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirjaxonQaxxarov&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" /> -->
 </div>
 
 
